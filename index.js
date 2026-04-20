@@ -18,8 +18,8 @@ const LOG_CHANNEL_ID = '1492542287308259388'; // Ganti dengan ID channel log
 const config = {
   host: 'Spectral-Nova.aternos.me',
   port: 23782,
-  username: 'Foxy',
-  password: 'Rio133000',
+  username: 'VoidStrikerOP',
+  password: 'Rio133004',
   version: false
 };
 
