@@ -17,7 +17,7 @@ const LOG_CHANNEL_ID = '1492542287308259388'; // Ganti dengan ID channel log
 // ============ KONFIGURASI ============
 const config = {
   host: 'Spectral-Nova.aternos.me',
-  port: 23782,
+  port: 34133,
   username: 'VoidStrikerOP',
   password: 'Rio133004',
   version: false
